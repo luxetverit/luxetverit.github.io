@@ -1,5 +1,7 @@
 ---
+layout: single
 category: algorithm
+title: "알고리즘 공부방법"
 ---
 
 안녕하세요 알고리즘 공부 방법 공유합니다.
