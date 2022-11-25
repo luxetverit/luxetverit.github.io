@@ -14,11 +14,11 @@ category: algorithm
 
 구글이나 네이버 검색을 통해 자세한 설명이 달린 해답을 참고하되,
 아예 배껴서 풀기보다는 글에서 힌트를 얻어서 풀어보는 방식으로 공부를 진행 중입니다.
-개인 깃허브 : https://github.com/luxetverit/nodejs-algorithm
+개인 깃허브 : [https://github.com/luxetverit/nodejs-algorithm](https://github.com/luxetverit/nodejs-algorithm)
 
 ## 알고리즘 공부 방법
 
-- 문제풀이 사이트 : https://www.acmicpc.net/ (백준)
+- 문제풀이 사이트 : [https://www.acmicpc.net/ (백준)](https://www.acmicpc.net/)
 - 입출력 문제의 경우 10분 경과시 다른사람의 코드 참조 (자세한 설명 있는 풀이글)
 - 문제풀이 후 다름사람의 코드와 비교
 - DP(다이나믹 프로그래밍) 부터 1시간 넘어가면 다른사람의 코드나 책 참조
@@ -57,7 +57,7 @@ category: algorithm
   완전탐색 - 1476, 1107, 1451, 9095, 10819, 10971, 1697, 1963, 9019, 1525, 2251, 2186, 3108, 5014, 1759, 2580, 1987, 6603, 1182, 2003, 1806, 1644, 1261, 1208, 7453, 2632, 2143
 
   종만북(알고리즘 문제 해결전략)
-  (http://book.naver.com/bookdb/book_detail.nhn?bid=7058764)
+  [(http://book.naver.com/bookdb/book_detail.nhn?bid=7058764)](<(http://book.naver.com/bookdb/book_detail.nhn?bid=7058764)>)
 
 - 어디서부터 문제일까?
   내가 모르는게 뭔지 몰라서 문제다.
