@@ -13,6 +13,7 @@ title: "알고리즘 공부방법"
 
 구글이나 네이버 검색을 통해 자세한 설명이 달린 해답을 참고하되,
 아예 배껴서 풀기보다는 글에서 힌트를 얻어서 풀어보는 방식으로 공부를 진행 중입니다.
+
 개인 깃허브 : [https://github.com/luxetverit/nodejs-algorithm](https://github.com/luxetverit/nodejs-algorithm)
 
 ## 알고리즘 공부 방법
